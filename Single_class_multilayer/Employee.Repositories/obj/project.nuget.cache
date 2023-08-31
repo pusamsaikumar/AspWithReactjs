@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jbpHLK7LCc5UOlVsqnRR4XPQdPe3FXx8kh9GKCqCj54gQtf0PH/385HGLgVRup/SdoCV0AQsBeJWnxI+DmfQdg==",
+  "dgSpecHash": "nDP2s/F9PMF3s/YPwfPzTtWAk9lvD3TnW9HR9qSB8m3WWgr0P4td5t2UBIVPk8JFCg4CqvQmXfdsXvNz3oT8yA==",
   "success": true,
   "projectFilePath": "D:\\csharpprojects\\Multilayer\\Employee.Repositories\\Employee.Repositories.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Veritra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Veritra\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Veritra\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Veritra\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

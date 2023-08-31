@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SrLg4sSg/GDumPhmTEBKG33beEs/ZloIbk7haxxELsIt2Nuki59wwy8yZ8j/pfzUPCxIFG7ROOzDnn/Wg9RkiQ==",
+  "dgSpecHash": "c5sPrAVonXQHka0vm1V3Zrfv2UnnjfyIS8UMoZlqL6jKw918aAcwFisCnPo8bQGg5CVB0QNB6eHcdTVBFfWjJg==",
   "success": true,
   "projectFilePath": "D:\\csharpprojects\\Multilayer\\Multilayer\\Multilayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Veritra\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Veritra\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Veritra\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Veritra\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Veritra\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

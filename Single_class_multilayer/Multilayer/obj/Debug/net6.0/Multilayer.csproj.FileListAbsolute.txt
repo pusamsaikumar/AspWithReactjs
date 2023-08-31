@@ -42,3 +42,4 @@ D:\csharpprojects\Multilayer\Multilayer\bin\Debug\net6.0\Employee.Service.dll
 D:\csharpprojects\Multilayer\Multilayer\bin\Debug\net6.0\Employee.Service.pdb
 D:\csharpprojects\Multilayer\Multilayer\bin\Debug\net6.0\Employee.Common.pdb
 D:\csharpprojects\Multilayer\Multilayer\bin\Debug\net6.0\Employee.Repositories.pdb
+D:\csharpprojects\Multilayer\Multilayer\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
